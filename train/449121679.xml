@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>449121679.jpg</filename>
+	<path>/Users/michelefraccaroli/Desktop/ami_project/Dataset/train/449121679.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>375</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>183</ymin>
+			<xmax>337</xmax>
+			<ymax>375</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>NUOVE</folder>
+	<filename>000000484028.jpg</filename>
+	<path>/Users/michelefraccaroli/Desktop/NUOVE/000000484028.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>427</width>
+		<height>640</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>360</ymin>
+			<xmax>236</xmax>
+			<ymax>610</ymax>
+		</bndbox>
+	</object>
+</annotation>

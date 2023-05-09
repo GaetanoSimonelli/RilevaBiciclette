@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fracca</folder>
+	<filename>000000174009.jpg</filename>
+	<path>/Users/michelefraccaroli/Desktop/fracca/000000174009.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>427</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>214</ymin>
+			<xmax>462</xmax>
+			<ymax>400</ymax>
+		</bndbox>
+	</object>
+</annotation>

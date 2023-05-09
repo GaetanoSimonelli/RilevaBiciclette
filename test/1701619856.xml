@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>1701619856.jpg</filename>
+	<path>/Users/michelefraccaroli/Desktop/ami_project/Dataset/test/1701619856.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>218</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>72</xmin>
+			<ymin>71</ymin>
+			<xmax>308</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>

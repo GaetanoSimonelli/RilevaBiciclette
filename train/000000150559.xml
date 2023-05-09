@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fra</folder>
+	<filename>000000150559.jpg</filename>
+	<path>/home/francesco/Scrivania/AMI/downloader/downloaded_images/fra/000000150559.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>500</width>
+		<height>500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>290</xmin>
+			<ymin>271</ymin>
+			<xmax>390</xmax>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+</annotation>

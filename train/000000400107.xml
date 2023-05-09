@@ -1,0 +1,26 @@
+<annotation>
+	<folder>rimanenti</folder>
+	<filename>000000400107.jpg</filename>
+	<path>/home/francesco/Scrivania/AMI/downloader/rimanenti/000000400107.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>487</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>191</xmin>
+			<ymin>227</ymin>
+			<xmax>441</xmax>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+</annotation>
